@@ -16,7 +16,7 @@ Recall that (0,0) is in top-left corner, the outside wall (grey wall) does not c
 
 ## Report
 
-More information in [Project Report](https://https://github.com/Oleaeuropaea/MazeRunnerCloud/tree/master/docs/Report.pdf)
+More information in [Project Report](https://github.com/Oleaeuropaea/MazeRunnerCloud/tree/master/docs/Report.pdf)
 
 ## Contributions
 
