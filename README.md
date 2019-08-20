@@ -1,14 +1,6 @@
 # MazeRunner-Cloud
 Project for the course of Cloud Computing &amp; Virtualization  during the 2017/18 academic year.
 
-Group 17
-
-* 76229	Luís Miguel Carmona Murta Mendes
-* 87891	Henrique Fernandes Alves
-* 90869	Gonçalo Alexandre Torrão Garcia
-* 89147 Matheus da Silveira Mello
-
-
 ## Build, Run
 
 ## Test Request
@@ -22,7 +14,16 @@ Group 17
 Recall that (0,0) is in top-left corner, the outside wall (grey wall) does not count to determine the position, speed should be within [1-100], and strategy is expressed with a string from these options: {bfs, dfs, astar}.
 
 
-
-
 ## Report
-https://www.overleaf.com/14493196gnpfvtypdgcc
+
+More information in [Project Report](https://https://github.com/Oleaeuropaea/MazeRunnerCloud/tree/master/docs/Report.pdf)
+
+## Contributions
+
+Luís Mendes luismurta@tecnico.ulisboa.pt
+
+Henrique Alves henriquefalves@tecnico.ulisboa.pt
+
+Gonçalo Garcia goncalotgarcia@tecnico.ulisboa.pt
+
+Matheus Mello matheus.mello@tecnico.ulisboa.pt
